@@ -1,0 +1,19 @@
+/* How to add background colour 
+#bg{
+    background-color: yellow;
+}
+*/
+
+/* how to add body background colour */
+/*body{
+    background-color: red;
+}
+*/
+/* how to add img in background */
+
+#bg{
+    background-image: url('/Learn-css/img/img1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
