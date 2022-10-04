@@ -1,3 +1,22 @@
+/*Element Selector */
 p{
-   color: green;
+   color: red;
+}
+
+/* Id Selector */
+#p3{
+    color: blue;
+}
+
+/* class Selector */
+.green-text{
+    color: green;
+}
+
+#h1{
+    font-size: 50px;
+}
+
+.text-decoration{
+    text-decoration: underline;
 }
