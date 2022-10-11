@@ -1,0 +1,43 @@
+#div1{
+    height: 200px;
+    width: 300px;
+    background-color: blue;
+
+    /*border-width: 2px;
+    border-style: solid;
+    border-color: red;
+    */
+
+    border: 2px solid red;
+    border-radius: 4px;
+}
+
+#div2{
+    height: 50%;
+    width: 50%;
+    background-color: cyan;
+}
+
+#sample{
+    color: black;
+    font-size: 40px;
+    border: 2px solid red;
+}
+
+#p1{
+    color: black;
+    font-size: 30px;
+    /* use for font style*/
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#bg-img{
+    height: 100vh;
+    width: 100vh;
+
+    background-image: url("img/img-2.jpg");
+    background-repeat: no-repeat;
+    /*background-position: center;*/
+    background-size: contain;
+    background-attachment: scroll;
+}
